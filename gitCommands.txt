@@ -1,8 +1,26 @@
+                        ----working with local like git----
+
 // git --version
 git config --global user.name "sreya"
 // git config user.name
 git config --global user.email "sreya9701@gmail.com"
 // git config user.email
 //ls
+git init
+git add gitCommands.txt
+(or)
+git add .    (for adding all files at a time)
+git status
+git commit -m "message"
+git status
+               
+                        ----working with remotes like github----
+
+git remote
+git remote add Androidprojects https://github.com/ChintaSundaraSreya/Android-projects.git
+git branch
+x
+
+
 
 
