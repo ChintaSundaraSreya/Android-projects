@@ -21,6 +21,10 @@ git remote add Androidprojects https://github.com/ChintaSundaraSreya/Android-pro
 git branch
 git push Androidprojects master
 
+                        ----for adding -----
 
+git add projectname
+git commit -m "message"
+git push Androidprojects master
 
 
