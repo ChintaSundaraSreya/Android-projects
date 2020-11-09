@@ -19,7 +19,7 @@ git status
 git remote
 git remote add Androidprojects https://github.com/ChintaSundaraSreya/Android-projects.git
 git branch
-x
+git push Androidprojects master
 
 
 

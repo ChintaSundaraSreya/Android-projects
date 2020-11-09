@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808261990577",
+    "firebase_url": "https://registration-ff8ad.firebaseio.com",
+    "project_id": "registration-ff8ad",
+    "storage_bucket": "registration-ff8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808261990577:android:0519dc66370f8cbfc9ca90",
+        "android_client_info": {
+          "package_name": "com.example.registrationandlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808261990577-64op0c42ca7qvb4rjhie247urckeg7iu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registrationandlogin",
+            "certificate_hash": "ef5ba3da750de6513c7529eb9725e517153a80a0"
+          }
+        },
+        {
+          "client_id": "808261990577-st8pbt2idb6m0gohd26ksvedr20eflb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1vrGGizzVN5H5-Xu3dkq9e2GIDwqxS4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808261990577-st8pbt2idb6m0gohd26ksvedr20eflb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
